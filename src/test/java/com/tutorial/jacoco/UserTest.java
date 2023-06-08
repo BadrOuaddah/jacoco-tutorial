@@ -1,11 +1,11 @@
 package com.tutorial.jacoco;
 
-
 import org.junit.Assert;
 import org.junit.jupiter.api.Test;
 
 
-public class UserTest {
+class UserTest {
+
     User user = new User();
 
     @Test
