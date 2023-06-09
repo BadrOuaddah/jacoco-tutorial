@@ -13,10 +13,10 @@ public class UserTest {
     public void testUserWithName() {
         Assert.assertEquals("Username : Davie is added successfully",user.addUser("Davie"));
     }
-//     @Test
-//     public void testUserWithNull() {
-//         Assert.assertEquals("Please provide the username",user.addUser(null));
-//     }
+    @Test
+    public void testUserWithNull() {
+        Assert.assertEquals("Please provide the username",user.addUser(null));
+    }
 
 
 }
