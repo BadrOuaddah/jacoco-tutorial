@@ -8,7 +8,7 @@ on:
 
 jobs:
   jacoco-java-gradle:
-
+    permissions: write-all
     runs-on: ubuntu-latest
 
     steps:
