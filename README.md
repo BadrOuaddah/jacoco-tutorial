@@ -1,6 +1,5 @@
 # jacoco-tutorial ☕
 
-![Coverage](.github/badges/jacoco.svg)
 <p align="center">
    <img width="400" height="100" src="https://github.com/BadrOuaddah/jacoco-tutorial/assets/119801735/48dad887-c017-4e41-bc47-3689c2f9a2f6">
 </p>
