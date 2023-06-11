@@ -1,5 +1,7 @@
 # jacoco-tutorial ☕
 
+![Coverage](.github/badges/jacoco.svg)
+
 <p align="center">
    <img width="400" height="100" src="https://github.com/BadrOuaddah/jacoco-tutorial/assets/119801735/48dad887-c017-4e41-bc47-3689c2f9a2f6">
 </p>
@@ -60,6 +62,3 @@ And Create jacoco-gradle.yml to generate JaCoCo badge and commit it
         commit-msg:  Update Jacoco Badge
         github-token: ${{ secrets.GITHUB_TOKEN }}
 ```
-And the result of Jacoco Badge is : 
-
-![Coverage](.github/badges/jacoco.svg)
